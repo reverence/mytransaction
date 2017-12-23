@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+
+    <component-scan base-package="com.my.transaction"/>
+
+    <!--<bean id="contactInfo" class="com.my.aop.ContactInfo">
+        <constructor-arg name="mobile" value="13211111111"></constructor-arg>
+        <constructor-arg name="mail" value="123@123.com"></constructor-arg>
+    </bean>
+
+    <bean id="user" class="com.my.aop.User">
+        <property name="name" value="test"></property>
+        <property name="contactInfo" ref="contactInfo"></property>
+    </bean>-->
+
+</beans>
